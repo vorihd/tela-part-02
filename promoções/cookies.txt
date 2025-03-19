@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22DC8DC105-a3f1-4D0A-bd12-09588e10479f%22%7D
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Ffogao-4-bocas-a-gas-atlas-monaco-top-glass-preto
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Brazil
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	6768b6ef-211f-483a-a8ea-ce26c3285fdb-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	a81812f8-7d09-47a1-b8a2-35e6a571d666
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	FB719C43-213d-4A42-b4bd-d95073555313
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	8E9A7845-c66f-446E-9e6f-532523ef8605
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

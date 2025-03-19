@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22D190D41C-05c4-49AE-b3a9-e060542c7fdb%22%7D
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fcart
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Brazil
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	397f25d7-3637-479c-b240-5307eaccc9d2-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	48999b7a-a021-4c94-9312-512d1589e67f
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	localization	BR
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	2F55B5C1-96e5-4C12-bd7c-5e9018740c1a
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	D8EBCA38-ea50-4EEF-be3a-f39923f81aee
+w19r0y-10.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

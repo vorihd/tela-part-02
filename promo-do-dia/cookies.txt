@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22C39A67DB-4df0-42BF-a3cc-cc67c3db8d34%22%7D
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fgeladeira-frost-free-duplex-386-litros-branca-consul-cor-branco-110v
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Brazil
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	ae5d97e7-a576-4955-a5b4-928b25d52a7d-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	079a960e-0c3e-4233-a19d-c7aa8b67579a
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	DA4E69C9-506d-4E2E-af12-a9a6ed4ccac6
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	2E9800D7-c356-4120-b941-9a8ed309dc10
+zaiygv-qz.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

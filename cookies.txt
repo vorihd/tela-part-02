@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+promos-do-dia	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22FF53DFB7-8cfd-49A2-bbca-d0630d08c515%22%7D
+promos-do-dia	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fcooktop-a-gas-itatiaia-preto-5-bocas-essencial-bivolt-127v-220v-620ct50153
+promos-do-dia	TRUE	/	FALSE	1999999999	_shopify_country	Brazil
+http2.mlstatic.com	TRUE	/	FALSE	1999999999	_d2id	4d6a3f05-9cc2-4971-b88d-810c7eaee984-n
+fury-os-analyticspylo-gajs-us-east-1-default-7ca27b0.s3.us-east-1.amazonaws.com	TRUE	/	FALSE	1999999999	SameSite	None
+promos-do-dia	TRUE	/	FALSE	1999999999	keep_alive	fcc5d553-ab2e-40c4-84c4-236faf10b50e
+promos-do-dia	TRUE	/	FALSE	1999999999	localization	BR
+promos-do-dia	TRUE	/	FALSE	1999999999	_shopify_y	0A4166F1-9490-49D2-a5c7-780f350e9e17
+promos-do-dia	TRUE	/	FALSE	1999999999	_shopify_s	474E94AF-33ff-47BA-8e6c-3d2b02dae97d
+promos-do-dia	TRUE	/	FALSE	1999999999	SameSite	Lax
+
